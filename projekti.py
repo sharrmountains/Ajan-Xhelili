@@ -111,5 +111,6 @@ result = tk.Label(
 )
 result.pack(pady=10)
 
+#ajan xhelili
 
 window.mainloop()
